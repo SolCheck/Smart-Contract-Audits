@@ -1,3 +1,3 @@
 # SolCheck Smart Contract Audits
 
-Contact us at (telegram)[https://t.me/SolCheck]!
+Contact us at <a href="https://t.me/SolCheck">telegram</a>!
